@@ -37,16 +37,10 @@
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td>
-                        <img src="../img/logotipo-facebook.png" alt="iniciar-facebook" style="width: 50px; height:50px;">
-                      </td>
-                      <td>
-                        <img src="../img/logotipo-twitter.png" alt="iniciar-twitter" style="width: 50px; height:50px;">
-                      </td>
-                      <td>
+                      <td class="text-center">
                         <img src="../img/logotipo-plus.png" alt="inciar-google plus" style="width: 50px; height:50px;">
                       </td>
-                      <td>
+                      <td class="text-center">
                         <img src="../img/logotipo-linkedin.png" alt="iniciar-linkedin" style="width: 50px; height:50px;">
                       </td>
                     </tr>
